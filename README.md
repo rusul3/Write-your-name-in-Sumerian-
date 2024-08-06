@@ -11,7 +11,7 @@ Historical Context: Learn about the Sumerian civilization and the significance o
 
 Home Screen of the App
 
-![Home Screen](photos/New Microsoft PowerPoint Presentation.jpg)
+![Home Screen](photos/NewMicrosoftPowerPointPresentation.jpg)
 
 
 Translation Screen with Input and Result
