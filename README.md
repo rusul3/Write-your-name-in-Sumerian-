@@ -10,7 +10,8 @@ Easy Translation: Input any English name to get its Sumerian equivalent in cunei
 Historical Context: Learn about the Sumerian civilization and the significance of their writing system.
 
 Home Screen of the App
-'New Microsoft PowerPoint Presentation.jpg'
+
+# New Microsoft PowerPoint Presentation.jpg
 
 
 Translation Screen with Input and Result
