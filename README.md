@@ -10,7 +10,7 @@ Easy Translation: Input any English name to get its Sumerian equivalent in cunei
 Historical Context: Learn about the Sumerian civilization and the significance of their writing system.
 
 <div align="center">
-  <img src="icon.jpg" alt="icon" width="500" height="500">
+  <img src="icon.jpg" alt="icon" width="100" height="100">
 </div>
 
 
@@ -23,9 +23,6 @@ Home Screen of the App
 
 
 Translation Screen with Input and Result
-
-
-Access to Educational Resources
 
 License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
