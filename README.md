@@ -10,6 +10,9 @@ Easy Translation: Input any English name to get its Sumerian equivalent in cunei
 Historical Context: Learn about the Sumerian civilization and the significance of their writing system.
 
 Home Screen of the App
+<div align="center">
+  <img src="photos/NewMicrosoftPowerPointPresentation.jpg" alt="Profile Photo" width="1000" height="150">
+</div>
 
 ![Home Screen](photos/NewMicrosoftPowerPointPresentation.jpg)
 ![Home Screen](photos/icon.jpg)
