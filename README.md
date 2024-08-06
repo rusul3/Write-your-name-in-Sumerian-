@@ -11,10 +11,9 @@ Historical Context: Learn about the Sumerian civilization and the significance o
 
 Home Screen of the App
 <div align="center">
-  <img src="New Microsoft PowerPoint Presentation.jpg" alt="Profile Photo" width="1000" height="150">
+  <img src="New Microsoft PowerPoint Presentation.jpg" alt="Profile Photo" width="1000" height="1550">
 </div>
 
-![Home Screen](photos/NewMicrosoftPowerPointPresentation.jpg)
 ![Home Screen](photos/icon.jpg)
 
 
